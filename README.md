@@ -1,1 +1,1 @@
-# app-Financeiro
+Aplicação Web de orçamento financeiro.
